@@ -1,0 +1,16 @@
+.idea
+rabbitmq/.idea
+rabbitmq/mvnw
+rabbitmq/mvnw.cmd
+rabbitmq/target/
+rabbitmq/HELP.md
+rabbitmq/rabbitmq.iml
+rabbitmq/.mvn/
+spring-rabbit/.idea
+spring-rabbit/mvnw
+spring-rabbit/mvnw.cmd
+spring-rabbit/target/
+spring-rabbit/HELP.md
+spring-rabbit/rabbitmq.iml
+spring-rabbit/.mvn/*
+
